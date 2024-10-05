@@ -1,4 +1,4 @@
-ffunction processGrowthIdeas(ideas, kpis) {
+function processGrowthIdeas(ideas, kpis) {
     prioritizedIdeas = prioritizeIdeas(ideas)
     
     for idea in prioritizedIdeas {
