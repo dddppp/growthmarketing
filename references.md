@@ -7,6 +7,13 @@ reason {
   return "Great book to understand how to build mechanisms that retain your users"
 }
 
+"Start with Why: How Great Leaders Inspire Everyone to Take Action"
+https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447
+
+reason {
+  return "Useful to understand the value of solving a real problem you are passionate about"
+}
+
 #websites
 
 "Pirate Funnel"
