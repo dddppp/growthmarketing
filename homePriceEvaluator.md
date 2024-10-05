@@ -22,13 +22,13 @@
 
     FUNCTION user_retention():
 
-        for each user(user DB):
-            # Increase retention by reminding users of their last interaction
-            IF user_has_recent_engagement(user_id):
-                SEND_notification_to_user("Check how the value of your property has changed!")
-                if (user_clicks) {
-                    INCREASE user.engagement
-                }
+    for each user(user DB):
+        # Increase retention by reminding users of their last interaction
+        IF user_has_recent_engagement(user_id):
+            SEND_notification_to_user("Check how the value of your property has changed!")
+            if (user_clicks) {
+                INCREASE user.engagement
+            }
 
 
     FUNCTION user_wants_to_buy_or_rent():
